@@ -1,0 +1,17 @@
+---
+en:
+  memsource_controller:
+    title: Company Account
+    project: Project
+    job: Job
+    form_header: Memsource Account Information
+    address_line_1: Address Line 1
+    address_line_2: Address Line 2
+    city: City
+    state: State
+    transit_code_locales:
+      routing_locale: Routing Locale
+      sort_code: Sort Code
+      transit_number_and_institution_number: Transit Number
+    account_number_types:
+      account_number: Account Number
