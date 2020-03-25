@@ -1,0 +1,16 @@
+<resources>
+    
+    <string name="key1">Job Details</string>
+    <string name="key2">Edit</string>
+    <string name="key3">Download Original File</string>
+    <string name="key4">Last update:&#160;</string>
+    <string name="key5">Status</string>
+    <string name="key6">Limit &amp; Notice</string>
+    <string name="key7">Source Language</string>
+    <string name="key8">Target Language</string>
+    <string name="key9">Your order price will be %1$s higher</string>
+    <string name="key10">Help &#038; Support</string>
+    <string name="key11">%1$s Market</string>
+    <string name="key12">Amount(%1$s)</string>
+</resources>
+
