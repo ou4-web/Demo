@@ -3,15 +3,21 @@
   [
 	{
 	"text":"All-Natural Skincare",
-	"key":"key1"
+	"key":"key1",
+	"length":"20",
+	"note":"https://www.memsource.com",
 	},
 	{
 	"text":"Face/Food",
-	"key":"key2"
+	"key":"key2",
+	"length":"10",
+	"note":"Follow references file_001",
 	},
 	{
 	"text":"Book now at",
-	"key":"key3"
+	"key":"key3",
+	"length":"15",
+	"note":"Follow references file_002",
 	},
 	{
 	"text":"www.facefoodnaturalskincare.com",
