@@ -1,0 +1,40 @@
+{
+"root":
+  [
+	{
+	"text":"All-Natural Skincare",
+	"key":"key1"
+	},
+	{
+	"text":"Face/Food",
+	"key":"key2"
+	},
+	{
+	"text":"Book now at",
+	"key":"key3"
+	},
+	{
+	"text":"www.facefoodnaturalskincare.com",
+	"key":"key4"
+	},
+	{
+	"text":"Gift Card Sale",
+	"key":"key5"
+	},
+	{
+	"text":"Get $10 free",
+	"key":"key6"
+	},
+	{
+	"text":"Face/Food Beauty Market & Spa offers a holistic approach to skincare.",
+	"key":"key7"
+	},
+	{
+	"text":"We provide all-natural European-style facials for all skin types, specializing in sensitive, mature, and teen skin.",
+	"key":"key8"
+	}
+	
+	
+	
+  ]
+}
