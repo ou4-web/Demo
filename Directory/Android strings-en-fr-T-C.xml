@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?><resources>
+    
+    <string name="key1">Détails du travail</string>
+    <string name="key2">Modifier</string>
+    <string name="key3">Télécharger le fichier original</string>
+    <string name="key4">Dernière mise à jour : </string>
+    <string name="key5">Statut</string>
+    <string name="key6">Limite et avis</string>
+    <string name="key7">Source (langue)</string>
+    <string name="key8">Langue cible</string>
+    <string name="key9">Votre prix de commande sera de %1$plus élevé</string>
+    <string name="key10">Aide et support</string>
+    <string name="key11">%1$s Marché</string>
+    <string name="key12">Montant(%1$s)</string>
+</resources>
+
